@@ -1,16 +1,31 @@
 <div align="center">
 
-<img width="100%" src="assets/banner.png" />
+<pre>
+ ██████╗ ███████╗███████╗ ██████╗  ██████╗
+ ██╔══██╗██╔════╝██╔════╝██╔═══██╗██╔════╝
+ ██████╔╝█████╗  █████╗  ██║   ██║██║  ███╗
+ ██╔═══╝ ██╔══╝  ██╔══╝  ██║   ██║██║   ██║
+ ██║     ███████╗███████╗╚██████╔╝╚██████╔╝
+ ╚═╝     ╚══════╝╚══════╝ ╚═════╝  ╚═════╝
+</pre>
 
-<br/>
+<h1>PEEOG</h1>
 
-# PEDRO DE OLIVEIRA
+<h3>DEVELOPER IN PROGRESS<span>_</span></h3>
 
-**DEVELOPER IN PROGRESS_**
+<code>SOFTWARE DEVELOPMENT // GAMING // TECHNOLOGY</code>
 
-`SYSTEMS DEVELOPMENT` · `GAMING` · `TECHNOLOGY`
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=peeog&style=flat-square&color=9F1723&label=PROFILE+VIEWS" />
+<code>PLAYER 001</code>
+&nbsp; • &nbsp;
+<code>STATUS: ONLINE</code>
+&nbsp; • &nbsp;
+<code>LEVELING UP...</code>
+
+<br/><br/>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 </div>
 
