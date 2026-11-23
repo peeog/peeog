@@ -1,110 +1,130 @@
-<!-- ============================================ -->
-<!--              PEDRO DE OLIVEIRA               -->
-<!--                 GITHUB README                -->
-<!-- ============================================ -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090909,60:242424,100:721B24&height=190&section=header&text=PEDRO%20DE%20OLIVEIRA&fontSize=36&fontColor=FFFFFF&fontAlignY=40&desc=DEVELOPMENT%20%7C%20TECHNOLOGY%20%7C%20DESIGN&descSize=12&descAlignY=60" />
+<img width="100%" src="assets/banner.png" />
 
 <br/>
 
-<a href="https://github.com/peeog">
-  <img src="https://komarev.com/ghpvc/?username=peeog&color=8F1721&style=flat-square&label=PROFILE+VIEWS" />
-</a>
+# PEDRO DE OLIVEIRA
+
+**DEVELOPER IN PROGRESS_**
+
+`SYSTEMS DEVELOPMENT` · `GAMING` · `TECHNOLOGY`
+
+<img src="https://komarev.com/ghpvc/?username=peeog&style=flat-square&color=9F1723&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
-## About me
+### `01 / PLAYER PROFILE`
 
 Olá! Sou **Pedro de Oliveira**, estudante de **Análise e Desenvolvimento de Sistemas na UNIUBE**, com formação técnica em Informática para Internet.
 
-Tenho interesse em desenvolvimento de software, tecnologia, criação de interfaces e soluções digitais.
+Sou apaixonado por tecnologia, desenvolvimento de software e games. Gosto de explorar novas ferramentas, entender como as coisas funcionam e transformar ideias em soluções digitais.
 
-Minha experiência combina conhecimentos de informática, desenvolvimento web e criatividade, sempre buscando evoluir tecnicamente e transformar ideias em projetos.
+Acredito que criatividade e tecnologia caminham juntas. Atualmente, estou construindo minha trajetória na área de desenvolvimento, sempre buscando aprender, experimentar e evoluir.
 
-Atualmente, estou aprofundando meus conhecimentos em programação e desenvolvimento de sistemas.
+```yaml
+PLAYER: Pedro de Oliveira
+USERNAME: peeog
+LOCATION: Uberaba, Brazil
+CLASS: Software Development Student
+EDUCATION: ADS - UNIUBE
+BACKGROUND: Internet Technology
+INTERESTS:
+  - Software Development
+  - Web Development
+  - Gaming
+  - Technology & Design
+STATUS: Constantly leveling up
+```
 
 ---
 
-## Technologies & Skills
+### `02 / TECH LOADOUT`
 
-<div align="center">
+**PROGRAMMING & DEVELOPMENT**
 
-**Programming & Development**
+<div align="left">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,php&theme=dark" />
 
-**Tools & Design**
+</div>
 
-<img src="https://skillicons.dev/icons?i=git,github,figma&theme=dark" />
+**TOOLS & CREATIVE SOFTWARE**
 
-<br/><br/>
+<div align="left">
 
-<img src="https://img.shields.io/badge/SQL-8F1721?style=flat-square&logo=databricks&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode&theme=dark" />
 
 </div>
 
+**DATABASE**
+
+<img src="https://img.shields.io/badge/SQL-181818?style=flat-square&logo=databricks&logoColor=E32B39" />
+
 ---
 
-## GitHub Statistics
+### `03 / CURRENT MISSION`
+
+```text
+[ACTIVE QUEST]
+
+> Studying: Systems Analysis and Development
+> Improving: Programming and Software Development
+> Exploring: Web Technologies and UI Design
+> Goal: Building real-world projects
+```
+
+---
+
+### `04 / GITHUB PERFORMANCE`
 
 <div align="center">
 
-<a href="https://github.com/peeog">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=peeog&show_icons=true&hide_border=true&bg_color=090909&title_color=C52B38&icon_color=C52B38&text_color=FFFFFF&ring_color=C52B38&include_all_commits=true" />
-</a>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=peeog&show_icons=true&hide_border=true&bg_color=090909&title_color=E32B39&icon_color=E32B39&text_color=FFFFFF&ring_color=E32B39&include_all_commits=true" />
 
-<a href="https://github.com/peeog">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peeog&layout=compact&hide_border=true&bg_color=090909&title_color=C52B38&text_color=FFFFFF" />
-</a>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peeog&layout=compact&hide_border=true&bg_color=090909&title_color=E32B39&text_color=FFFFFF" />
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=peeog&theme=dark&hide_border=true&background=090909&ring=C52B38&fire=C52B38&currStreakLabel=C52B38&sideLabels=FFFFFF&dates=888888" />
+<img width="70%" src="https://streak-stats.demolab.com?user=peeog&theme=dark&hide_border=true&background=090909&ring=E32B39&fire=E32B39&currStreakLabel=E32B39&sideLabels=FFFFFF&dates=888888" />
 
 </div>
 
 ---
 
-## Projects
+### `05 / PROJECT DATABASE`
 
-Meus projetos e experimentos de desenvolvimento estão disponíveis no meu GitHub.
+Explore my repositories, experiments and development projects.
 
 <div align="center">
 
 <a href="https://github.com/peeog?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE_MY_PROJECTS-8F1721?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/ACCESS_REPOSITORIES-9F1723?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-## Connect with me
+### `06 / COMMS`
 
 <div align="center">
 
 <a href="https://github.com/peeog">
-  <img src="https://img.shields.io/badge/GitHub-090909?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/GITHUB-181818?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 </a>
-
 <a href="https://www.linkedin.com/in/pedroodev/">
-  <img src="https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=C52B38" />
+<img src="https://img.shields.io/badge/LINKEDIN-181818?style=for-the-badge&logo=linkedin&logoColor=E32B39" />
 </a>
 
-</div>
+<br/><br/>
 
----
+**PLAYER ONE // PEEOG**
 
-<div align="center">
+`CODE IS THE WEAPON. CREATIVITY IS THE ADVANTAGE.`
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:721B24,60:242424,100:090909&height=100&section=footer" />
-
-**"Code. Create. Innovate."**
-
-<sub>Designed & developed by Pedro de Oliveira · 2026</sub>
+<sub>Designed by Pedro de Oliveira · 2026</sub>
 
 </div>
