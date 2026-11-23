@@ -1,31 +1,16 @@
 <div align="center">
 
-<pre>
- ██████╗ ███████╗███████╗ ██████╗  ██████╗
- ██╔══██╗██╔════╝██╔════╝██╔═══██╗██╔════╝
- ██████╔╝█████╗  █████╗  ██║   ██║██║  ███╗
- ██╔═══╝ ██╔══╝  ██╔══╝  ██║   ██║██║   ██║
- ██║     ███████╗███████╗╚██████╔╝╚██████╔╝
- ╚═╝     ╚══════╝╚══════╝ ╚═════╝  ╚═════╝
-</pre>
+<img width="100%" src="assets/banner.png" />
 
-<h1>PEEOG</h1>
+<br/>
 
-<h3>DEVELOPER IN PROGRESS<span>_</span></h3>
+# PEDRO DE OLIVEIRA
 
-<code>SOFTWARE DEVELOPMENT // GAMING // TECHNOLOGY</code>
+**DEVELOPER IN PROGRESS_**
 
-<br/><br/>
+`SYSTEMS DEVELOPMENT` · `GAMING` · `TECHNOLOGY`
 
-<code>PLAYER 001</code>
-&nbsp; • &nbsp;
-<code>STATUS: ONLINE</code>
-&nbsp; • &nbsp;
-<code>LEVELING UP...</code>
-
-<br/><br/>
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<img src="https://komarev.com/ghpvc/?username=peeog&style=flat-square&color=9F1723&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -33,7 +18,7 @@
 
 ### `01 / PLAYER PROFILE`
 
-Olá! Sou **Pedro de Oliveira**, estudante de **Análise e Desenvolvimento de Sistemas na UNIUBE**, com formação técnica em Informática para Internet e Aplicação Web.
+Olá! Sou **Pedro de Oliveira**, estudante de **Análise e Desenvolvimento de Sistemas na UNIUBE**, com formação técnica em Informática para Internet.
 
 Sou apaixonado por tecnologia, desenvolvimento de software e games. Gosto de explorar novas ferramentas, entender como as coisas funcionam e transformar ideias em soluções digitais.
 
