@@ -26,22 +26,33 @@ Sou apaixonado por tecnologia, desenvolvimento de software e games. Gosto de exp
 
 Acredito que criatividade e tecnologia caminham juntas. Atualmente, estou construindo minha trajetória na área de desenvolvimento, sempre buscando aprender, experimentar e evoluir.
 
-```yaml
-PLAYER: Pedro de Oliveira
-USERNAME: peeog
-LOCATION: Uberaba, Brazil
-CLASS: Software Development Student
-EDUCATION: ADS - UNIUBE
-BACKGROUND: Internet Technology
-INTERESTS:
-  - Software Development
-  - Web Development
-  - Gaming
-  - Technology & Design
-STATUS: Constantly leveling up
-```
 
----
+<h2><code>&gt; whoami</code></h2>
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/NAME-8F1721?style=flat-square" /> Pedro de Oliveira
+
+<img src="https://img.shields.io/badge/LOCATION-8F1721?style=flat-square" /> Uberaba, MG - Brasil
+
+<img src="https://img.shields.io/badge/EDUCATION-8F1721?style=flat-square" /> Análise e Desenvolvimento de Sistemas
+
+<img src="https://img.shields.io/badge/UNIVERSITY-8F1721?style=flat-square" /> UNIUBE
+
+<img src="https://img.shields.io/badge/BACKGROUND-8F1721?style=flat-square" /> Técnico em Informática para Internet
+
+<img src="https://img.shields.io/badge/OCCUPATION-8F1721?style=flat-square" /> Student | Technology Enthusiast
+
+<br/>
+
+<img src="https://img.shields.io/badge/FOCUS-8F1721?style=flat-square" />
+
+- Software Development
+- Web Development
+- Technology
+- Creative Solutions
+
+</div>
 
 ### `02 / TECH LOADOUT`
 
