@@ -31,17 +31,17 @@ Acredito que criatividade e tecnologia caminham juntas. Atualmente, estou constr
 
 <div align="left">
 
-<img src="https://img.shields.io/badge/NAME-8F1721?style=flat-square" /> Pedro de Oliveira
+<img src="https://img.shields.io/badge/NAME-8F1721?style=flat-square" />  Pedro de Oliveira
 
-<img src="https://img.shields.io/badge/LOCATION-8F1721?style=flat-square" /> Uberaba, MG - Brasil
+<img src="https://img.shields.io/badge/LOCATION-8F1721?style=flat-square" />  Uberaba, MG - Brasil
 
-<img src="https://img.shields.io/badge/EDUCATION-8F1721?style=flat-square" /> Análise e Desenvolvimento de Sistemas
+<img src="https://img.shields.io/badge/EDUCATION-8F1721?style=flat-square" />  Análise e Desenvolvimento de Sistemas
 
-<img src="https://img.shields.io/badge/UNIVERSITY-8F1721?style=flat-square" /> UNIUBE
+<img src="https://img.shields.io/badge/UNIVERSITY-8F1721?style=flat-square" />  UNIUBE
 
-<img src="https://img.shields.io/badge/BACKGROUND-8F1721?style=flat-square" /> Técnico em Informática para Internet
+<img src="https://img.shields.io/badge/BACKGROUND-8F1721?style=flat-square" />  Técnico em Informática para Internet
 
-<img src="https://img.shields.io/badge/OCCUPATION-8F1721?style=flat-square" /> Student | Technology Enthusiast
+<img src="https://img.shields.io/badge/OCCUPATION-8F1721?style=flat-square" />  Student | Technology Enthusiast
 
 <br/>
 
