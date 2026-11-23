@@ -1,8 +1,10 @@
 <div align="center">
 
-<img width="100%" src="assets/banner-gaming.png" />
-
-<br/>
+  <img
+    width="100%"
+    src="./banner-gaming.png"
+    alt="Pedro de Oliveira - Gaming and Technology"
+  />
 
 # PEDRO DE OLIVEIRA
 
