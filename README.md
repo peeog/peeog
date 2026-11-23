@@ -1,18 +1,18 @@
+
+<!-- ========================================= -->
+<!--              PEDRO DE OLIVEIRA             -->
+<!--              DARK NEON README              -->
+<!-- ========================================= -->
+
 <div align="center">
 
-  <img
-    width="100%"
-    src="./banner-gaming.png"
-    alt="Pedro de Oliveira - Gaming and Technology"
-  />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090909,50:5C1018,100:FF303C&height=200&section=header&text=PEDRO%20DE%20OLIVEIRA&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=DEVELOPMENT%20%7C%20TECHNOLOGY%20%7C%20CREATIVITY&descSize=13&descAlignY=58&animation=fadeIn" />
 
-# PEDRO DE OLIVEIRA
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=FF303C&center=true&vCenter=true&width=600&lines=An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Explorando+o+universo+da+programa%C3%A7%C3%A3o;Transformando+ideias+em+solu%C3%A7%C3%B5es." />
 
-**DEVELOPER IN PROGRESS_**
+  <br/>
 
-`SYSTEMS DEVELOPMENT` · `GAMING` · `TECHNOLOGY`
-
-<img src="https://komarev.com/ghpvc/?username=peeog&style=flat-square&color=9F1723&label=PROFILE+VIEWS" />
+  ![Profile Views](https://komarev.com/ghpvc/?username=SEU_USUARIO&color=FF303C&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
