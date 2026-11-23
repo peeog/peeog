@@ -18,7 +18,7 @@
 
 ### `01 / PLAYER PROFILE`
 
-Olá! Sou **Pedro de Oliveira**, estudante de **Análise e Desenvolvimento de Sistemas na UNIUBE**, com formação técnica em Informática para Internet.
+Olá! Sou **Pedro de Oliveira**, estudante de **Análise e Desenvolvimento de Sistemas na UNIUBE**, com formação técnica em Informática para Internet e Aplicação Web.
 
 Sou apaixonado por tecnologia, desenvolvimento de software e games. Gosto de explorar novas ferramentas, entender como as coisas funcionam e transformar ideias em soluções digitais.
 
