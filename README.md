@@ -131,6 +131,9 @@ Explore my repositories, experiments and development projects.
 <a href="https://www.linkedin.com/in/pedroodev/">
 <img src="https://img.shields.io/badge/LINKEDIN-181818?style=for-the-badge&logo=linkedin&logoColor=E32B39" />
 </a>
+<a href="https://www.instagram.com/pepeu.dev/">
+<img src="https://img.shields.io/badge/INSTAGRAM-181818?style=for-the-badge&logo=instagram&logoColor=E32B39" />
+</a>
 
 <br/><br/>
 
